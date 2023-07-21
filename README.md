@@ -2,6 +2,24 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Open json-server
+
+In the directory of `/db`, you can run:
+
+### `json-server --watch db.json --port 5000`
+
+  Resources
+  http://localhost:5000/users
+  http://localhost:5000/roles
+  http://localhost:5000/children
+  http://localhost:5000/rights
+  http://localhost:5000/categories
+  http://localhost:5000/regions
+  http://localhost:5000/news
+
+  Home
+  http://localhost:5000
+
 ## Available Scripts
 
 In the project directory, you can run:
